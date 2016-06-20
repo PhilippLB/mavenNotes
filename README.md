@@ -3,7 +3,7 @@
 Notes application
 
 Used tools:
-* Java protgramming langugage.
+* Java programming langugage.
 * Graphic interface based on JavaFX
 * mysql DB 
 * serialization / de-serialization java-objects using BLOB
